@@ -1,2 +1,3 @@
 # tilesetFormatter
- reorganizes a tileset for a gamemaker autotiling library
+
+reorganizes a tileset for a gamemaker autotiling library
